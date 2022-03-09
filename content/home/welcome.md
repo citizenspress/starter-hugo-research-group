@@ -1,23 +1,16 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+widget: hero
+widget_id: Welcome
+headless: true
+weight: 10
 title: |
   Rudman Lab @ WSU  
-  
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Seth Rudman Lab** has been a center of excellence for evolutionary biology research, teaching, and practice since its founding in 2021.
+We are a group of scientists investigating eco-evolutionary dynamics using genomics, field experiments, and laboratory studies.
