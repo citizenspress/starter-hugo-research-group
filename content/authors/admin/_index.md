@@ -1,6 +1,6 @@
 ---
 title: Seth Rudman
-role: Professor of Evolutionary Ecology
+role: Assistant Professor
 bio: The Rudman lab at WSU-Vancouver uses experiments and genomic tools to
   answer questions about the ecological and evolutionary fates of populations
   inhabiting rapidly changing environments.
